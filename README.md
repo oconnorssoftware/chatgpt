@@ -1,5 +1,7 @@
 # My experimentation with chatgpt
 
+Link - https://openai.com/blog/chatgpt/
+
 ## Basic Weather App
 
 First I wanted to see if chatgpt could create a web application from a high level prompt - "Write a django web application that takes a user's date of birth and tells them what the weather was on that day."
